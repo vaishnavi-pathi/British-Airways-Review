@@ -17,7 +17,7 @@ Operational Improvements: Pinpoint specific aircraft or regions with lower ratin
 Strategic Decisions: Use customer feedback data to guide decisions related to service updates, investment in in-flight entertainment, and food service improvements.
 
 
-# Insights
+## Insights
 
 Following inferences can be drawn from the dashboard:
 
@@ -46,7 +46,7 @@ Aircraft with lower average ratings (e.g., A319 with 3.8 and A321 with 3.6) may 
  
 Aircraft such as the Boeing 777 (263 reviews) and Various Aircrafts (Below 50 reviews) (329 reviews) have the highest number of reviews. This could be due to higher utilization or longer routes, giving more passengers an opportunity to review. British Airways could focus on maintaining or improving service quality in these frequently reviewed aircrafts.
          
-### Areas for Improvement:
+## Areas for Improvement:
 
 Entertainment and Food: Both metrics have notably low scores, indicating significant customer dissatisfaction. British Airways may benefit from enhancing its entertainment options and food quality to improve overall passenger experience.
 
